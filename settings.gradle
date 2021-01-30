@@ -1,0 +1,2 @@
+include ':App Shapes'
+rootProject.name = "Higher or Lower"
